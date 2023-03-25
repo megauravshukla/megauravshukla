@@ -8,9 +8,6 @@ My passion for software lies with dreaming up ideas and making them come true wi
 I take great care in the experience, architecture, and code quality of the things I build.
 
 
-🔧 Technologies & Tools
-
-code:Java
              
 
 
